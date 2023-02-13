@@ -7,13 +7,11 @@
 http://162.55.220.72:5005  
 
 1) http://162.55.220.72:5005/get_method  
-req.
-GET
-name: str
-age: int
+req.  
+GETname: str  
+age: int  
 
-
-2) http://162.55.220.72:5005/user_info_2
+4) http://162.55.220.72:5005/user_info_2
 req.
 POST
 name: str
